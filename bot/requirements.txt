@@ -9,7 +9,7 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 requests==2.22.0
 requests-toolbelt==0.9.1
-urllib3==1.25.3
+urllib3==1.26.5
 webexteamsbot==0.1.2.1
 webexteamssdk==1.1.1
 Werkzeug==0.15.4
